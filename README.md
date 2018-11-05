@@ -31,3 +31,6 @@ GMT, Greenwich Mean Time 格林威治时间
 
 ## UTC时间 VS GMT时间
 
+GMT, Greenwich Mean Time 格林威治时间，本初子午线，真太阳时vs平太阳时 误差几分钟 - 十几分钟
+
+UTC, Coordinated Universal Time 法文： TUC 协调世界时间绝原子时钟 闰秒 23:59:59 23:59:60 00:00:00
